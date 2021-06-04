@@ -115,7 +115,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 - Inline search is also supported.
 
 * Bot Link:  <a href="https://t.me/ShasaMusic" alt="ShasaMusic"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-ShasaMusic-blue" /> </a>
-* News channel: <a  href="https://t.me/W2H_Userbot" alt="ShasaMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-ShasaMusic%20Updates-9cf" /> </a>
+* News channel: <a  href="https://t.me/LionXUpdates" alt="ShasaMusic Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-ShasaMusic%20Updates-9cf" /> </a>
 
 ## Support
 - [Channel](https://t.me/LionXSupport)
