@@ -1,4 +1,4 @@
-<h1 align="centre">SHASAROBOT 🎵</h1>
+<h1 align="centre">SHASAMUSIC V3.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
