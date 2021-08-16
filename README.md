@@ -1,4 +1,4 @@
-<h1 align="centre">SHASAMUSIC V3.0 🎵</h1>
+<h1 align="centre">𝐒𝐇𝐀𝐒𝐀𝐌𝐔𝐒𝐈𝐂 𝐯3.0 🎵</h1>
 
 ### A bot that can play music on Telegram Group and Channel Voice Chats
 #### POWERED BY [PYTGCALLS](https://github.com/pytgcalls/pytgcalls)
@@ -23,9 +23,14 @@
 
 ## 🚀 Deployment
 
-### 💜 Heroku
+### 💜 𝐇𝐄𝐑𝐎𝐊𝐔
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MdNoor786/ShasaMusic-)
+[![Deploy+on+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MdNoor786/ShasaMusic-)
+
+
+### ❤️ 𝐑𝐀𝐈𝐋𝐖𝐀𝐘
+
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/MdNoor786/ShasaMusic-/main&envs=SESSION_NAME,BOT_TOKEN,BOT_USERNAME,BOT_NAME,SUPPORT_GROUP,PROJECT_NAME,ARQ_API_KEY,ASSISTANT_NAME,BG_IMAGE,UPDATES_CHANNEL,API_ID,PMPERMIT,API_HASH,SUDO_USERS,DURATION_LIMIT)
 
 Get pyrogram (p)  `SESSION` from here:
 [![Run on Repl.it](https://repl.it/badge/github/SpEcHiDe/GenerateStringSession)](https://repl.it/@SpEcHiDe/GenerateStringSession)
@@ -109,7 +114,7 @@ Don't edit this part
 #### Special Credits
 - [Rojserbest](http://github.com/rojserbes): Callsmusic Developer
 
-This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest). Without his hardwork Shasamusic won't exist. 
+This bot is based on the original work done by [Rojserbest](http://github.com/rojserbest).
 Shasamusic is a modified version of [Callsmusic](https://github.com/callsmusic/callsmusic) for fit the needs of @Shasa_Robot users
 
 #### Contribtors
